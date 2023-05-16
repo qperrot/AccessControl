@@ -1,0 +1,6 @@
+[package]
+name = "test"
+version = "0.1.0"
+description = "Workshop to learn the basics of Cairo."
+
+[[target.starknet-contract]]

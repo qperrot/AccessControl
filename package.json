@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "starknet": "^5.9.0"
+  },
+  "devDependencies": {
+    "@shardlabs/starknet-hardhat-plugin": "^0.8.0-alpha.0",
+    "@types/jest": "^29.5.1",
+    "@types/mocha": "^10.0.1"
+  }
+}
